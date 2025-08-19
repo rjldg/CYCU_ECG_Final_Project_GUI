@@ -12,6 +12,7 @@ import tensorflow as tf
 # -------------------------
 # Configuration
 # -------------------------
+#MODEL_PATH_1D = "./ecg_1d_cnn.h5"
 MODEL_PATH_1D = "./JD_ecg_1d_cnn_9888.h5"
 MODEL_PATH_2D = "./JD_ecg_2d_cnn_9866.h5"
 MODEL_PATH_HYBRID = "./ecg_hybrid_model_batchsize64.h5"
